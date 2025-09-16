@@ -9,4 +9,3 @@ def read_root():
 @app.get('/about')
 def about():
     return{"message":"hello i am om joshi, learning fast api"}
-
